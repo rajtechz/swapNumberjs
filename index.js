@@ -73,7 +73,10 @@
 // }
 
 
+// you can change the value 
 
+// let a = 20
+// let b = 30
 
 let a = prompt("Enter the first number")
 let b = prompt("Enter the second number")
